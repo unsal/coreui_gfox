@@ -11,7 +11,7 @@ class Widgets extends Component {
       <div className="animated fadeIn">
         <Row>
           <Col sm="6" md="2">
-            <Widget04 icon="icon-people" color="info" header="Kurum Iliskisi" value="25">Visitors</Widget04>
+            <Widget04 icon="icon-people" color="info" header="Kurum İliskisi" value="25">Visitors</Widget04>
           </Col>
           <Col sm="6" md="2">
             <Widget04 icon="icon-user-follow" color="success" header="Süreç Sahibi" value="25">New Clients</Widget04>
