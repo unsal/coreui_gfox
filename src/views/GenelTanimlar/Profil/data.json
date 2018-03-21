@@ -1,0 +1,257 @@
+[
+  {
+    "id": "1",
+    "title": "Öğrenci-İngilizce Hazırlık",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "2",
+    "title": "Öğrenci-Lisans",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "3",
+    "title": "Öğrenci-Yüksek Lisans",
+    "status": "0",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "4",
+    "title": "Öğrenci-Doktora",
+    "status": "0",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "5",
+    "title": "Personel-Akademik",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "6",
+    "title": "Personel-Ders Saat Ücretli",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "7",
+    "title": "Personel-İdari",
+    "status": "0",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "8",
+    "title": "Personel-Eski Çalışan (Akademik-İdari)",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "9",
+    "title": "Mezun",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "10",
+    "title": "Ziyaretçi",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "11",
+    "title": "Tedarikçi",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "12",
+    "title": "İş Ortağı",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "13",
+    "title": "Çalışan Adayı (özgeçmiş_ CV paylaşımı )",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "14",
+    "title": "Tedarikçi Çalışanı",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "15",
+    "title": "Aday Öğrenci",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "16",
+    "title": "Aday Öğrenci Velisi",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "17",
+    "title": "Anket Katılımcısı",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "18",
+    "title": "Araştırma Katılımcısı",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "19",
+    "title": "Birey",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "20",
+    "title": "Bülten üyesi",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "21",
+    "title": "Danışan (Çift ve Aile Merkezi/ Dış Paydaş)",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "22",
+    "title": "Eğitim Kurum Temsilcisi",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "23",
+    "title": "Etkinlik Katılımcısı",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "24",
+    "title": "Girişimci",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "25",
+    "title": "Kurum içi Girişimciler",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "26",
+    "title": "Lisansüstü Aday Öğrenci",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "27",
+    "title": "Maker",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "28",
+    "title": "Öğrenci Velisi",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "29",
+    "title": "Profesyonel/Kurum Temsilcisi",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "30",
+    "title": "Sea Katılımcısı",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "31",
+    "title": "Stajyer (öğrenci veya personel)",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "32",
+    "title": "Uluslararası Aday Öğrenci",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "33",
+    "title": "Yatırımcı",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "34",
+    "title": "Danışman",
+    "status": "1",
+    "created": "10/28/17 14:56"
+  },
+  {
+    "id": "35",
+    "title": "Araştırmacı",
+    "status": "1",
+    "created": "11/26/17 19:13"
+  },
+  {
+    "id": "36",
+    "title": "Engelli",
+    "status": "1",
+    "created": "12/3/17 8:04"
+  },
+  {
+    "id": "37",
+    "title": "Burslu",
+    "status": "1",
+    "created": "12/3/17 8:10"
+  },
+  {
+    "id": "38",
+    "title": "Öğrenci",
+    "status": "1",
+    "created": "12/7/17 16:42"
+  },
+  {
+    "id": "39",
+    "title": "Personel",
+    "status": "1",
+    "created": "12/7/17 21:48"
+  },
+  {
+    "id": "40",
+    "title": "Öğrenci -Özel",
+    "status": "1",
+    "created": "12/10/17 12:20"
+  },
+  {
+    "id": "41",
+    "title": "Öğrenci -Mentor",
+    "status": "1",
+    "created": "12/10/17 12:20"
+  },
+  {
+    "id": "42",
+    "title": "Psikiyatrist",
+    "status": "1",
+    "created": "12/15/17 22:54"
+  },
+  {
+    "id": ""
+  }
+]

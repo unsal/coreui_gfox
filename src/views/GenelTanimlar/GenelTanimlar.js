@@ -5,13 +5,13 @@ import Widget02 from './Widget02';
 import Widget03 from './Widget03';
 import Widget04 from './Widget04';
 
-class Widgets extends Component {
+class GenelTanimlar extends Component {
   render() {
     return (
       <div className="animated fadeIn">
         <ListGroup>
           <ListGroupItem active action>Genel Tanımlar</ListGroupItem>
-          <ListGroupItem tag="a" href="#" action>Kurum Iliskisi</ListGroupItem>
+          <ListGroupItem tag="a" href="/#/profil" action>Kurum Iliskisi</ListGroupItem>
           <ListGroupItem tag="a" href="#" action>Süreç Sahibi</ListGroupItem>
           <ListGroupItem tag="a" href="#" action>Kişisel Veriler</ListGroupItem>
           <ListGroupItem tag="a" href="#" action>İşlenme Amacı</ListGroupItem>
@@ -74,4 +74,4 @@ class Widgets extends Component {
   }
 }
 
-export default Widgets;
+export default GenelTanimlar;

@@ -14,7 +14,6 @@ class Dashboard extends Component {
           <p className="lead">
             <Button color="primary">Devam</Button>
           </p>
-
         </Jumbotron>
     </div>
     )

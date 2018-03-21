@@ -20,7 +20,7 @@ export default {
       children: [
         {
           name: "Genel Tanımlar",
-          url: "/widgets",
+          url: "/geneltanimlar",
           icon: "icon-tag",
         },
         {
